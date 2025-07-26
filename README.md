@@ -1,4 +1,4 @@
-A collection of offline educational contents. 
+A collection of offline, single-file educational contents. 
 
 No CDNs, every asset is inlined in the html file.
 
