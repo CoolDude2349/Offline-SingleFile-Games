@@ -1,6 +1,6 @@
 # A collection of offline, single-file educational contents. 
 
-No CDNs, every asset is inlined in the html file.
+No CDNs nor iframes, every asset is inlined in the html file.
 
 Does not require internet connection.
 
