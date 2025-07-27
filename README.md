@@ -4,4 +4,4 @@ No CDNs nor iframes, every asset is inlined in the html file.
 
 Does not require internet connection.
 
-Note: Any offline html files for unity will be very large!
+Note: Any offline html files for unity will be very large! Use chunks if you're having trouble loading it.
